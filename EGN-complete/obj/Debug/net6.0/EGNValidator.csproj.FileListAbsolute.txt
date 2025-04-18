@@ -1,0 +1,14 @@
+C:\Users\georg\source\repos\EGN-complete\bin\Debug\net6.0\EGNValidator.exe
+C:\Users\georg\source\repos\EGN-complete\bin\Debug\net6.0\EGNValidator.deps.json
+C:\Users\georg\source\repos\EGN-complete\bin\Debug\net6.0\EGNValidator.runtimeconfig.json
+C:\Users\georg\source\repos\EGN-complete\bin\Debug\net6.0\EGNValidator.dll
+C:\Users\georg\source\repos\EGN-complete\bin\Debug\net6.0\EGNValidator.pdb
+C:\Users\georg\source\repos\EGN-complete\obj\Debug\net6.0\EGNValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\source\repos\EGN-complete\obj\Debug\net6.0\EGNValidator.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\EGN-complete\obj\Debug\net6.0\EGNValidator.AssemblyInfo.cs
+C:\Users\georg\source\repos\EGN-complete\obj\Debug\net6.0\EGNValidator.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\EGN-complete\obj\Debug\net6.0\EGNValidator.dll
+C:\Users\georg\source\repos\EGN-complete\obj\Debug\net6.0\refint\EGNValidator.dll
+C:\Users\georg\source\repos\EGN-complete\obj\Debug\net6.0\EGNValidator.pdb
+C:\Users\georg\source\repos\EGN-complete\obj\Debug\net6.0\EGNValidator.genruntimeconfig.cache
+C:\Users\georg\source\repos\EGN-complete\obj\Debug\net6.0\ref\EGNValidator.dll
